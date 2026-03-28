@@ -59,6 +59,7 @@
 |**[Kanagawa](kanagawa.yaml)**:|<img src='previews/kanagawa.yaml.svg' width='300'>|
 |**[Konsole Linux](konsole_linux.yaml)**:|<img src='previews/konsole_linux.yaml.svg' width='300'>|
 |**[Laser](laser.yaml)**:|<img src='previews/laser.yaml.svg' width='300'>|
+|**[Lcars](lcars.yaml)**:|<img src='previews/lcars.yaml.svg' width='300'>|
 |**[Light-pinkish](light-pinkish.yaml)**:|<img src='previews/light-pinkish.yaml.svg' width='300'>|
 |**[Low Contrast](low_contrast.yaml)**:|<img src='previews/low_contrast.yaml.svg' width='300'>|
 |**[Lucario](lucario.yaml)**:|<img src='previews/lucario.yaml.svg' width='300'>|
