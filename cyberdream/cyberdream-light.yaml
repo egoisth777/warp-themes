@@ -15,8 +15,7 @@ accent:
   right: "#dbc3d9"
 background: "#fbeff6"
 foreground: "#000000"
-
-cursor: "#39FF14"
+cursor: "#00c853"
 details: darker
 terminal_colors:
   normal:
